@@ -18,7 +18,7 @@ A Java program that allows the user to enter a text and then the program analyze
 ### PART 3 Analysis 3:
 - Thet same program as in PART 1 and PART 2 but in addition an algorithm that considers the first character of each word in the text and calculates the percentage distribution.
 
-### PART 4 Combine:
+### PART 4 Combined:
 - Combine the above analysis methods (character distribution, 3-character distribution, distribution of 1st characters) where the different analysis methods are weighted against each other. Which calculates the difference in the character distribution between the entered text and the text files for each analysis method separately and then you combine these differences, for example by calculating the average.
 
 - The language with the lowest difference in average in relation to the entered text becomes the program's "language guess".
