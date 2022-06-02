@@ -25,6 +25,6 @@ A Java program that allows the user to enter a text and then the program analyze
 
 ### PART 5 - Good object-oriented design
 
-- Structuring the programs so that the logic is divided into classes according to function - each class must have a clear task. In the program code, code repetitions are also avoided.
+- Structuring of the program that so the logic is divided into classes according to function - each class must have a clear task. In the program code, code repetitions are also avoided.
 
 - The code is with consistent syntax, correct indents and comments.
